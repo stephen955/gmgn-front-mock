@@ -1,0 +1,10 @@
+flutter:
+  uses-material-design: true
+
+  assets:
+    enabled: true
+    outputs:
+      class_name: Assets
+      package_name: gmgn_front
+      constant_name: assets
+      path: lib/generated/assets.gen.dart 
